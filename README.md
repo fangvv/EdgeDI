@@ -10,6 +10,19 @@ It is published by ACM Transactions on Internet Technology (ACM ToIT). You can a
 
 PyTorch
 
+## Citation
+
+    @article{fang2023joint,
+        title={Joint Architecture Design and Workload Partitioning for DNN Inference on Industrial IoT Clusters},
+        author={Fang, Weiwei and Xu, Wenyuan and Yu, Chongchong and Xiong, Neal N},
+        journal={ACM Transactions on Internet Technology},
+        volume={23},
+        number={1},
+        pages={1--21},
+        year={2023},
+        publisher={ACM New York, NY}
+    }
+
 ## Contact
 
 Wenyuan Xu (19120419@bjtu.edu.cn)
