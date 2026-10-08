@@ -167,6 +167,10 @@ python time_test.py
 python memory_test.py
 ```
 
+## ⭐ Star
+
+**If you find this work useful for your research, please consider giving this repository a ⭐ star. Your support is greatly appreciated!**
+
 ## Citation
 
 If you find EdgeDI useful or relevant to your project and research, please kindly cite our paper:
